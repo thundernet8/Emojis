@@ -1,1502 +1,1502 @@
 const flags = [
     {
         emoji: "🏳️",
-        alias: ":white_flag:`",
+        alias: ":white_flag:",
         name: "WAVING WHITE FLAG, VARIATION SELECTOR-16"
     },
-    { emoji: "🏴", alias: ":black_flag:`", name: "WAVING BLACK FLAG" },
-    { emoji: "🏁", alias: ":checkered_flag:`", name: "CHEQUERED FLAG" },
+    { emoji: "🏴", alias: ":black_flag:", name: "WAVING BLACK FLAG" },
+    { emoji: "🏁", alias: ":checkered_flag:", name: "CHEQUERED FLAG" },
     {
         emoji: "🚩",
-        alias: ":triangular_flag_on_post:`",
+        alias: ":triangular_flag_on_post:",
         name: "TRIANGULAR FLAG ON POST"
     },
     {
         emoji: "🏳️‍🌈",
-        alias: ":rainbow_flag:`",
+        alias: ":rainbow_flag:",
         name:
             "WAVING WHITE FLAG, VARIATION SELECTOR-16, ZERO WIDTH JOINER, RAINBOW"
     },
     {
         emoji: "🇦🇫",
-        alias: ":afghanistan:`",
+        alias: ":afghanistan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER F"
     },
     {
         emoji: "🇦🇽",
-        alias: ":aland_islands:`",
+        alias: ":aland_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER X"
     },
     {
         emoji: "🇦🇱",
-        alias: ":albania:`",
+        alias: ":albania:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇩🇿",
-        alias: ":algeria:`",
+        alias: ":algeria:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇦🇸",
-        alias: ":american_samoa:`",
+        alias: ":american_samoa:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇦🇩",
-        alias: ":andorra:`",
+        alias: ":andorra:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER D"
     },
     {
         emoji: "🇦🇴",
-        alias: ":angola:`",
+        alias: ":angola:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇦🇮",
-        alias: ":anguilla:`",
+        alias: ":anguilla:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇦🇶",
-        alias: ":antarctica:`",
+        alias: ":antarctica:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER Q"
     },
     {
         emoji: "🇦🇬",
-        alias: ":antigua_barbuda:`",
+        alias: ":antigua_barbuda:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇦🇷",
-        alias: ":argentina:`",
+        alias: ":argentina:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇦🇲",
-        alias: ":armenia:`",
+        alias: ":armenia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇦🇼",
-        alias: ":aruba:`",
+        alias: ":aruba:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER W"
     },
     {
         emoji: "🇦🇺",
-        alias: ":australia:`",
+        alias: ":australia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇦🇹",
-        alias: ":austria:`",
+        alias: ":austria:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇦🇿",
-        alias: ":azerbaijan:`",
+        alias: ":azerbaijan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇧🇸",
-        alias: ":bahamas:`",
+        alias: ":bahamas:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇧🇭",
-        alias: ":bahrain:`",
+        alias: ":bahrain:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER H"
     },
     {
         emoji: "🇧🇩",
-        alias: ":bangladesh:`",
+        alias: ":bangladesh:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER D"
     },
     {
         emoji: "🇧🇧",
-        alias: ":barbados:`",
+        alias: ":barbados:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER B"
     },
     {
         emoji: "🇧🇾",
-        alias: ":belarus:`",
+        alias: ":belarus:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Y"
     },
     {
         emoji: "🇧🇪",
-        alias: ":belgium:`",
+        alias: ":belgium:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇧🇿",
-        alias: ":belize:`",
+        alias: ":belize:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇧🇯",
-        alias: ":benin:`",
+        alias: ":benin:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER J"
     },
     {
         emoji: "🇧🇲",
-        alias: ":bermuda:`",
+        alias: ":bermuda:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇧🇹",
-        alias: ":bhutan:`",
+        alias: ":bhutan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇧🇴",
-        alias: ":bolivia:`",
+        alias: ":bolivia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇧🇶",
-        alias: ":caribbean_netherlands:`",
+        alias: ":caribbean_netherlands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Q"
     },
     {
         emoji: "🇧🇦",
-        alias: ":bosnia_herzegovina:`",
+        alias: ":bosnia_herzegovina:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇧🇼",
-        alias: ":botswana:`",
+        alias: ":botswana:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER W"
     },
     {
         emoji: "🇧🇷",
-        alias: ":brazil:`",
+        alias: ":brazil:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇮🇴",
-        alias: ":british_indian_ocean_territory:`",
+        alias: ":british_indian_ocean_territory:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇻🇬",
-        alias: ":british_virgin_islands:`",
+        alias: ":british_virgin_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇧🇳",
-        alias: ":brunei:`",
+        alias: ":brunei:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇧🇬",
-        alias: ":bulgaria:`",
+        alias: ":bulgaria:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇧🇫",
-        alias: ":burkina_faso:`",
+        alias: ":burkina_faso:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER F"
     },
     {
         emoji: "🇧🇮",
-        alias: ":burundi:`",
+        alias: ":burundi:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇨🇻",
-        alias: ":cape_verde:`",
+        alias: ":cape_verde:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER V"
     },
     {
         emoji: "🇰🇭",
-        alias: ":cambodia:`",
+        alias: ":cambodia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER H"
     },
     {
         emoji: "🇨🇲",
-        alias: ":cameroon:`",
+        alias: ":cameroon:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇨🇦",
-        alias: ":canada:`",
+        alias: ":canada:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇮🇨",
-        alias: ":canary_islands:`",
+        alias: ":canary_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER C"
     },
     {
         emoji: "🇰🇾",
-        alias: ":cayman_islands:`",
+        alias: ":cayman_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER Y"
     },
     {
         emoji: "🇨🇫",
-        alias: ":central_african_republic:`",
+        alias: ":central_african_republic:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER F"
     },
     {
         emoji: "🇹🇩",
-        alias: ":chad:`",
+        alias: ":chad:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER D"
     },
     {
         emoji: "🇨🇱",
-        alias: ":chile:`",
+        alias: ":chile:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇨🇳",
-        alias: ":cn:`",
+        alias: ":cn:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇨🇽",
-        alias: ":christmas_island:`",
+        alias: ":christmas_island:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER X"
     },
     {
         emoji: "🇨🇨",
-        alias: ":cocos_islands:`",
+        alias: ":cocos_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER C"
     },
     {
         emoji: "🇨🇴",
-        alias: ":colombia:`",
+        alias: ":colombia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇰🇲",
-        alias: ":comoros:`",
+        alias: ":comoros:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇨🇬",
-        alias: ":congo_brazzaville:`",
+        alias: ":congo_brazzaville:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇨🇩",
-        alias: ":congo_kinshasa:`",
+        alias: ":congo_kinshasa:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER D"
     },
     {
         emoji: "🇨🇰",
-        alias: ":cook_islands:`",
+        alias: ":cook_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇨🇷",
-        alias: ":costa_rica:`",
+        alias: ":costa_rica:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇨🇮",
-        alias: ":cote_divoire:`",
+        alias: ":cote_divoire:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇭🇷",
-        alias: ":croatia:`",
+        alias: ":croatia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇨🇺",
-        alias: ":cuba:`",
+        alias: ":cuba:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇨🇼",
-        alias: ":curacao:`",
+        alias: ":curacao:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER W"
     },
     {
         emoji: "🇨🇾",
-        alias: ":cyprus:`",
+        alias: ":cyprus:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER Y"
     },
     {
         emoji: "🇨🇿",
-        alias: ":czech_republic:`",
+        alias: ":czech_republic:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇩🇰",
-        alias: ":denmark:`",
+        alias: ":denmark:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇩🇯",
-        alias: ":djibouti:`",
+        alias: ":djibouti:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER J"
     },
     {
         emoji: "🇩🇲",
-        alias: ":dominica:`",
+        alias: ":dominica:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇩🇴",
-        alias: ":dominican_republic:`",
+        alias: ":dominican_republic:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇪🇨",
-        alias: ":ecuador:`",
+        alias: ":ecuador:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER C"
     },
     {
         emoji: "🇪🇬",
-        alias: ":egypt:`",
+        alias: ":egypt:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇸🇻",
-        alias: ":el_salvador:`",
+        alias: ":el_salvador:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER V"
     },
     {
         emoji: "🇬🇶",
-        alias: ":equatorial_guinea:`",
+        alias: ":equatorial_guinea:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER Q"
     },
     {
         emoji: "🇪🇷",
-        alias: ":eritrea:`",
+        alias: ":eritrea:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇪🇪",
-        alias: ":estonia:`",
+        alias: ":estonia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇪🇹",
-        alias: ":ethiopia:`",
+        alias: ":ethiopia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇪🇺",
-        alias: ":eu:`",
+        alias: ":eu:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇫🇰",
-        alias: ":falkland_islands:`",
+        alias: ":falkland_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇫🇴",
-        alias: ":faroe_islands:`",
+        alias: ":faroe_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇫🇯",
-        alias: ":fiji:`",
+        alias: ":fiji:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER J"
     },
     {
         emoji: "🇫🇮",
-        alias: ":finland:`",
+        alias: ":finland:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇫🇷",
-        alias: ":fr:`",
+        alias: ":fr:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇬🇫",
-        alias: ":french_guiana:`",
+        alias: ":french_guiana:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER F"
     },
     {
         emoji: "🇵🇫",
-        alias: ":french_polynesia:`",
+        alias: ":french_polynesia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER F"
     },
     {
         emoji: "🇹🇫",
-        alias: ":french_southern_territories:`",
+        alias: ":french_southern_territories:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER F"
     },
     {
         emoji: "🇬🇦",
-        alias: ":gabon:`",
+        alias: ":gabon:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇬🇲",
-        alias: ":gambia:`",
+        alias: ":gambia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇬🇪",
-        alias: ":georgia:`",
+        alias: ":georgia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇩🇪",
-        alias: ":de:`",
+        alias: ":de:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇬🇭",
-        alias: ":ghana:`",
+        alias: ":ghana:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER H"
     },
     {
         emoji: "🇬🇮",
-        alias: ":gibraltar:`",
+        alias: ":gibraltar:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇬🇷",
-        alias: ":greece:`",
+        alias: ":greece:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇬🇱",
-        alias: ":greenland:`",
+        alias: ":greenland:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇬🇩",
-        alias: ":grenada:`",
+        alias: ":grenada:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER D"
     },
     {
         emoji: "🇬🇵",
-        alias: ":guadeloupe:`",
+        alias: ":guadeloupe:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER P"
     },
     {
         emoji: "🇬🇺",
-        alias: ":guam:`",
+        alias: ":guam:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇬🇹",
-        alias: ":guatemala:`",
+        alias: ":guatemala:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇬🇬",
-        alias: ":guernsey:`",
+        alias: ":guernsey:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇬🇳",
-        alias: ":guinea:`",
+        alias: ":guinea:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇬🇼",
-        alias: ":guinea_bissau:`",
+        alias: ":guinea_bissau:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER W"
     },
     {
         emoji: "🇬🇾",
-        alias: ":guyana:`",
+        alias: ":guyana:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER Y"
     },
     {
         emoji: "🇭🇹",
-        alias: ":haiti:`",
+        alias: ":haiti:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇭🇳",
-        alias: ":honduras:`",
+        alias: ":honduras:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇭🇰",
-        alias: ":hong_kong:`",
+        alias: ":hong_kong:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇭🇺",
-        alias: ":hungary:`",
+        alias: ":hungary:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇮🇸",
-        alias: ":iceland:`",
+        alias: ":iceland:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇮🇳",
-        alias: ":india:`",
+        alias: ":india:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇮🇩",
-        alias: ":indonesia:`",
+        alias: ":indonesia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER D"
     },
     {
         emoji: "🇮🇷",
-        alias: ":iran:`",
+        alias: ":iran:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇮🇶",
-        alias: ":iraq:`",
+        alias: ":iraq:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER Q"
     },
     {
         emoji: "🇮🇪",
-        alias: ":ireland:`",
+        alias: ":ireland:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇮🇲",
-        alias: ":isle_of_man:`",
+        alias: ":isle_of_man:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇮🇱",
-        alias: ":israel:`",
+        alias: ":israel:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇮🇹",
-        alias: ":it:`",
+        alias: ":it:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇯🇲",
-        alias: ":jamaica:`",
+        alias: ":jamaica:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇯🇵",
-        alias: ":jp:`",
+        alias: ":jp:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER P"
     },
-    { emoji: "🎌", alias: ":crossed_flags:`", name: "CROSSED FLAGS" },
+    { emoji: "🎌", alias: ":crossed_flags:", name: "CROSSED FLAGS" },
     {
         emoji: "🇯🇪",
-        alias: ":jersey:`",
+        alias: ":jersey:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇯🇴",
-        alias: ":jordan:`",
+        alias: ":jordan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇰🇿",
-        alias: ":kazakhstan:`",
+        alias: ":kazakhstan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇰🇪",
-        alias: ":kenya:`",
+        alias: ":kenya:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇰🇮",
-        alias: ":kiribati:`",
+        alias: ":kiribati:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇽🇰",
-        alias: ":kosovo:`",
+        alias: ":kosovo:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER X, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇰🇼",
-        alias: ":kuwait:`",
+        alias: ":kuwait:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER W"
     },
     {
         emoji: "🇰🇬",
-        alias: ":kyrgyzstan:`",
+        alias: ":kyrgyzstan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇱🇦",
-        alias: ":laos:`",
+        alias: ":laos:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇱🇻",
-        alias: ":latvia:`",
+        alias: ":latvia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER V"
     },
     {
         emoji: "🇱🇧",
-        alias: ":lebanon:`",
+        alias: ":lebanon:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER B"
     },
     {
         emoji: "🇱🇸",
-        alias: ":lesotho:`",
+        alias: ":lesotho:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇱🇷",
-        alias: ":liberia:`",
+        alias: ":liberia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇱🇾",
-        alias: ":libya:`",
+        alias: ":libya:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER Y"
     },
     {
         emoji: "🇱🇮",
-        alias: ":liechtenstein:`",
+        alias: ":liechtenstein:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇱🇹",
-        alias: ":lithuania:`",
+        alias: ":lithuania:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇱🇺",
-        alias: ":luxembourg:`",
+        alias: ":luxembourg:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇲🇴",
-        alias: ":macau:`",
+        alias: ":macau:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇲🇰",
-        alias: ":macedonia:`",
+        alias: ":macedonia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇲🇬",
-        alias: ":madagascar:`",
+        alias: ":madagascar:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇲🇼",
-        alias: ":malawi:`",
+        alias: ":malawi:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER W"
     },
     {
         emoji: "🇲🇾",
-        alias: ":malaysia:`",
+        alias: ":malaysia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Y"
     },
     {
         emoji: "🇲🇻",
-        alias: ":maldives:`",
+        alias: ":maldives:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER V"
     },
     {
         emoji: "🇲🇱",
-        alias: ":mali:`",
+        alias: ":mali:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇲🇹",
-        alias: ":malta:`",
+        alias: ":malta:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇲🇭",
-        alias: ":marshall_islands:`",
+        alias: ":marshall_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER H"
     },
     {
         emoji: "🇲🇶",
-        alias: ":martinique:`",
+        alias: ":martinique:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Q"
     },
     {
         emoji: "🇲🇷",
-        alias: ":mauritania:`",
+        alias: ":mauritania:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇲🇺",
-        alias: ":mauritius:`",
+        alias: ":mauritius:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇾🇹",
-        alias: ":mayotte:`",
+        alias: ":mayotte:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER Y, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇲🇽",
-        alias: ":mexico:`",
+        alias: ":mexico:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER X"
     },
     {
         emoji: "🇫🇲",
-        alias: ":micronesia:`",
+        alias: ":micronesia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇲🇩",
-        alias: ":moldova:`",
+        alias: ":moldova:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER D"
     },
     {
         emoji: "🇲🇨",
-        alias: ":monaco:`",
+        alias: ":monaco:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER C"
     },
     {
         emoji: "🇲🇳",
-        alias: ":mongolia:`",
+        alias: ":mongolia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇲🇪",
-        alias: ":montenegro:`",
+        alias: ":montenegro:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇲🇸",
-        alias: ":montserrat:`",
+        alias: ":montserrat:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇲🇦",
-        alias: ":morocco:`",
+        alias: ":morocco:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇲🇿",
-        alias: ":mozambique:`",
+        alias: ":mozambique:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇲🇲",
-        alias: ":myanmar:`",
+        alias: ":myanmar:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇳🇦",
-        alias: ":namibia:`",
+        alias: ":namibia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇳🇷",
-        alias: ":nauru:`",
+        alias: ":nauru:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇳🇵",
-        alias: ":nepal:`",
+        alias: ":nepal:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER P"
     },
     {
         emoji: "🇳🇱",
-        alias: ":netherlands:`",
+        alias: ":netherlands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇳🇨",
-        alias: ":new_caledonia:`",
+        alias: ":new_caledonia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER C"
     },
     {
         emoji: "🇳🇿",
-        alias: ":new_zealand:`",
+        alias: ":new_zealand:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇳🇮",
-        alias: ":nicaragua:`",
+        alias: ":nicaragua:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇳🇪",
-        alias: ":niger:`",
+        alias: ":niger:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇳🇬",
-        alias: ":nigeria:`",
+        alias: ":nigeria:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇳🇺",
-        alias: ":niue:`",
+        alias: ":niue:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇳🇫",
-        alias: ":norfolk_island:`",
+        alias: ":norfolk_island:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER F"
     },
     {
         emoji: "🇲🇵",
-        alias: ":northern_mariana_islands:`",
+        alias: ":northern_mariana_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER P"
     },
     {
         emoji: "🇰🇵",
-        alias: ":north_korea:`",
+        alias: ":north_korea:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER P"
     },
     {
         emoji: "🇳🇴",
-        alias: ":norway:`",
+        alias: ":norway:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇴🇲",
-        alias: ":oman:`",
+        alias: ":oman:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER O, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇵🇰",
-        alias: ":pakistan:`",
+        alias: ":pakistan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇵🇼",
-        alias: ":palau:`",
+        alias: ":palau:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER W"
     },
     {
         emoji: "🇵🇸",
-        alias: ":palestinian_territories:`",
+        alias: ":palestinian_territories:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇵🇦",
-        alias: ":panama:`",
+        alias: ":panama:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇵🇬",
-        alias: ":papua_new_guinea:`",
+        alias: ":papua_new_guinea:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇵🇾",
-        alias: ":paraguay:`",
+        alias: ":paraguay:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER Y"
     },
     {
         emoji: "🇵🇪",
-        alias: ":peru:`",
+        alias: ":peru:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇵🇭",
-        alias: ":philippines:`",
+        alias: ":philippines:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER H"
     },
     {
         emoji: "🇵🇳",
-        alias: ":pitcairn_islands:`",
+        alias: ":pitcairn_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇵🇱",
-        alias: ":poland:`",
+        alias: ":poland:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇵🇹",
-        alias: ":portugal:`",
+        alias: ":portugal:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇵🇷",
-        alias: ":puerto_rico:`",
+        alias: ":puerto_rico:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇶🇦",
-        alias: ":qatar:`",
+        alias: ":qatar:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER Q, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇷🇪",
-        alias: ":reunion:`",
+        alias: ":reunion:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇷🇴",
-        alias: ":romania:`",
+        alias: ":romania:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇷🇺",
-        alias: ":ru:`",
+        alias: ":ru:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇷🇼",
-        alias: ":rwanda:`",
+        alias: ":rwanda:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER W"
     },
     {
         emoji: "🇧🇱",
-        alias: ":st_barthelemy:`",
+        alias: ":st_barthelemy:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇸🇭",
-        alias: ":st_helena:`",
+        alias: ":st_helena:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER H"
     },
     {
         emoji: "🇰🇳",
-        alias: ":st_kitts_nevis:`",
+        alias: ":st_kitts_nevis:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇱🇨",
-        alias: ":st_lucia:`",
+        alias: ":st_lucia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER C"
     },
     {
         emoji: "🇵🇲",
-        alias: ":st_pierre_miquelon:`",
+        alias: ":st_pierre_miquelon:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇻🇨",
-        alias: ":st_vincent_grenadines:`",
+        alias: ":st_vincent_grenadines:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER C"
     },
     {
         emoji: "🇼🇸",
-        alias: ":samoa:`",
+        alias: ":samoa:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER W, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇸🇲",
-        alias: ":san_marino:`",
+        alias: ":san_marino:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇸🇹",
-        alias: ":sao_tome_principe:`",
+        alias: ":sao_tome_principe:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇸🇦",
-        alias: ":saudi_arabia:`",
+        alias: ":saudi_arabia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇸🇳",
-        alias: ":senegal:`",
+        alias: ":senegal:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇷🇸",
-        alias: ":serbia:`",
+        alias: ":serbia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇸🇨",
-        alias: ":seychelles:`",
+        alias: ":seychelles:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER C"
     },
     {
         emoji: "🇸🇱",
-        alias: ":sierra_leone:`",
+        alias: ":sierra_leone:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇸🇬",
-        alias: ":singapore:`",
+        alias: ":singapore:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇸🇽",
-        alias: ":sint_maarten:`",
+        alias: ":sint_maarten:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER X"
     },
     {
         emoji: "🇸🇰",
-        alias: ":slovakia:`",
+        alias: ":slovakia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇸🇮",
-        alias: ":slovenia:`",
+        alias: ":slovenia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇸🇧",
-        alias: ":solomon_islands:`",
+        alias: ":solomon_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER B"
     },
     {
         emoji: "🇸🇴",
-        alias: ":somalia:`",
+        alias: ":somalia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇿🇦",
-        alias: ":south_africa:`",
+        alias: ":south_africa:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇬🇸",
-        alias: ":south_georgia_south_sandwich_islands:`",
+        alias: ":south_georgia_south_sandwich_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇰🇷",
-        alias: ":kr:`",
+        alias: ":kr:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇸🇸",
-        alias: ":south_sudan:`",
+        alias: ":south_sudan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇪🇸",
-        alias: ":es:`",
+        alias: ":es:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇱🇰",
-        alias: ":sri_lanka:`",
+        alias: ":sri_lanka:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇸🇩",
-        alias: ":sudan:`",
+        alias: ":sudan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER D"
     },
     {
         emoji: "🇸🇷",
-        alias: ":suriname:`",
+        alias: ":suriname:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇸🇿",
-        alias: ":swaziland:`",
+        alias: ":swaziland:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇸🇪",
-        alias: ":sweden:`",
+        alias: ":sweden:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇨🇭",
-        alias: ":switzerland:`",
+        alias: ":switzerland:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER H"
     },
     {
         emoji: "🇸🇾",
-        alias: ":syria:`",
+        alias: ":syria:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER Y"
     },
     {
         emoji: "🇹🇼",
-        alias: ":taiwan:`",
+        alias: ":taiwan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER W"
     },
     {
         emoji: "🇹🇯",
-        alias: ":tajikistan:`",
+        alias: ":tajikistan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER J"
     },
     {
         emoji: "🇹🇿",
-        alias: ":tanzania:`",
+        alias: ":tanzania:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇹🇭",
-        alias: ":thailand:`",
+        alias: ":thailand:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER H"
     },
     {
         emoji: "🇹🇱",
-        alias: ":timor_leste:`",
+        alias: ":timor_leste:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER L"
     },
     {
         emoji: "🇹🇬",
-        alias: ":togo:`",
+        alias: ":togo:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇹🇰",
-        alias: ":tokelau:`",
+        alias: ":tokelau:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER K"
     },
     {
         emoji: "🇹🇴",
-        alias: ":tonga:`",
+        alias: ":tonga:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER O"
     },
     {
         emoji: "🇹🇹",
-        alias: ":trinidad_tobago:`",
+        alias: ":trinidad_tobago:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER T"
     },
     {
         emoji: "🇹🇳",
-        alias: ":tunisia:`",
+        alias: ":tunisia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇹🇷",
-        alias: ":tr:`",
+        alias: ":tr:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER R"
     },
     {
         emoji: "🇹🇲",
-        alias: ":turkmenistan:`",
+        alias: ":turkmenistan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇹🇨",
-        alias: ":turks_caicos_islands:`",
+        alias: ":turks_caicos_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER C"
     },
     {
         emoji: "🇹🇻",
-        alias: ":tuvalu:`",
+        alias: ":tuvalu:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER V"
     },
     {
         emoji: "🇺🇬",
-        alias: ":uganda:`",
+        alias: ":uganda:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER G"
     },
     {
         emoji: "🇺🇦",
-        alias: ":ukraine:`",
+        alias: ":ukraine:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇦🇪",
-        alias: ":united_arab_emirates:`",
+        alias: ":united_arab_emirates:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇬🇧",
-        alias: ":gb:`",
+        alias: ":gb:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER B"
     },
     {
         emoji: "🇺🇸",
-        alias: ":us:`",
+        alias: ":us:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER S"
     },
     {
         emoji: "🇻🇮",
-        alias: ":us_virgin_islands:`",
+        alias: ":us_virgin_islands:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER I"
     },
     {
         emoji: "🇺🇾",
-        alias: ":uruguay:`",
+        alias: ":uruguay:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER Y"
     },
     {
         emoji: "🇺🇿",
-        alias: ":uzbekistan:`",
+        alias: ":uzbekistan:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER Z"
     },
     {
         emoji: "🇻🇺",
-        alias: ":vanuatu:`",
+        alias: ":vanuatu:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER U"
     },
     {
         emoji: "🇻🇦",
-        alias: ":vatican_city:`",
+        alias: ":vatican_city:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER A"
     },
     {
         emoji: "🇻🇪",
-        alias: ":venezuela:`",
+        alias: ":venezuela:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇻🇳",
-        alias: ":vietnam:`",
+        alias: ":vietnam:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER N"
     },
     {
         emoji: "🇼🇫",
-        alias: ":wallis_futuna:`",
+        alias: ":wallis_futuna:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER W, REGIONAL INDICATOR SYMBOL LETTER F"
     },
     {
         emoji: "🇪🇭",
-        alias: ":western_sahara:`",
+        alias: ":western_sahara:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER H"
     },
     {
         emoji: "🇾🇪",
-        alias: ":yemen:`",
+        alias: ":yemen:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER Y, REGIONAL INDICATOR SYMBOL LETTER E"
     },
     {
         emoji: "🇿🇲",
-        alias: ":zambia:`",
+        alias: ":zambia:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER M"
     },
     {
         emoji: "🇿🇼",
-        alias: ":zimbabwe:`",
+        alias: ":zimbabwe:",
         name:
             "REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER W"
     }

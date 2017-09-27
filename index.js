@@ -24,7 +24,7 @@ function readMd(md) {
     }
     const fields = record.split("|");
     const emoji = fields[0].trim();
-    const alias = fields[1].replace("`", "").trim();
+    const alias = fields[1].replace(/`/g, "").trim();
     const name = fields[2].trim();
     code.push(`{emoji: "${emoji}",alias:"${alias}",name:"${name}"},`);
   });
