@@ -1,0 +1,271 @@
+❤️ | `:heart:` | HEAVY BLACK HEART, VARIATION SELECTOR-16
+💛 | `:yellow_heart:` | YELLOW HEART
+💚 | `:green_heart:` | GREEN HEART
+💙 | `:blue_heart:` | BLUE HEART
+💜 | `:purple_heart:` | PURPLE HEART
+🖤 | `:black_heart:` | BLACK HEART
+💔 | `:broken_heart:` | BROKEN HEART
+❣️ | `:heavy_heart_exclamation:` | HEAVY HEART EXCLAMATION MARK ORNAMENT, VARIATION SELECTOR-16
+💕 | `:two_hearts:` | TWO HEARTS
+💞 | `:revolving_hearts:` | REVOLVING HEARTS
+💓 | `:heartbeat:` | BEATING HEART
+💗 | `:heartpulse:` | GROWING HEART
+💖 | `:sparkling_heart:` | SPARKLING HEART
+💘 | `:cupid:` | HEART WITH ARROW
+💝 | `:gift_heart:` | HEART WITH RIBBON
+💟 | `:heart_decoration:` | HEART DECORATION
+☮️ | `:peace_symbol:` | PEACE SYMBOL, VARIATION SELECTOR-16
+✝️ | `:latin_cross:` | LATIN CROSS, VARIATION SELECTOR-16
+☪️ | `:star_and_crescent:` | STAR AND CRESCENT, VARIATION SELECTOR-16
+🕉 | `:om:` | OM SYMBOL
+☸️ | `:wheel_of_dharma:` | WHEEL OF DHARMA, VARIATION SELECTOR-16
+✡️ | `:star_of_david:` | STAR OF DAVID, VARIATION SELECTOR-16
+🔯 | `:six_pointed_star:` | SIX POINTED STAR WITH MIDDLE DOT
+🕎 | `:menorah:` | MENORAH WITH NINE BRANCHES
+☯️ | `:yin_yang:` | YIN YANG, VARIATION SELECTOR-16
+☦️ | `:orthodox_cross:` | ORTHODOX CROSS, VARIATION SELECTOR-16
+🛐 | `:place_of_worship:` | PLACE OF WORSHIP
+⛎ | `:ophiuchus:` | OPHIUCHUS
+♈️ | `:aries:` | ARIES, VARIATION SELECTOR-16
+♉️ | `:taurus:` | TAURUS, VARIATION SELECTOR-16
+♊️ | `:gemini:` | GEMINI, VARIATION SELECTOR-16
+♋️ | `:cancer:` | CANCER, VARIATION SELECTOR-16
+♌️ | `:leo:` | LEO, VARIATION SELECTOR-16
+♍️ | `:virgo:` | VIRGO, VARIATION SELECTOR-16
+♎️ | `:libra:` | LIBRA, VARIATION SELECTOR-16
+♏️ | `:scorpius:` | SCORPIUS, VARIATION SELECTOR-16
+♐️ | `:sagittarius:` | SAGITTARIUS, VARIATION SELECTOR-16
+♑️ | `:capricorn:` | CAPRICORN, VARIATION SELECTOR-16
+♒️ | `:aquarius:` | AQUARIUS, VARIATION SELECTOR-16
+♓️ | `:pisces:` | PISCES, VARIATION SELECTOR-16
+🆔 | `:id:` | SQUARED ID
+⚛️ | `:atom_symbol:` | ATOM SYMBOL, VARIATION SELECTOR-16
+🉑 | `:accept:` | CIRCLED IDEOGRAPH ACCEPT
+☢️ | `:radioactive:` | RADIOACTIVE SIGN, VARIATION SELECTOR-16
+☣️ | `:biohazard:` | BIOHAZARD SIGN, VARIATION SELECTOR-16
+📴 | `:mobile_phone_off:` | MOBILE PHONE OFF
+📳 | `:vibration_mode:` | VIBRATION MODE
+🈶 | `:u6709:` | SQUARED CJK UNIFIED IDEOGRAPH-6709
+🈚️ | `:u7121:` | SQUARED CJK UNIFIED IDEOGRAPH-7121, VARIATION SELECTOR-16
+🈸 | `:u7533:` | SQUARED CJK UNIFIED IDEOGRAPH-7533
+🈺 | `:u55b6:` | SQUARED CJK UNIFIED IDEOGRAPH-55B6
+🈷️ | `:u6708:` | SQUARED CJK UNIFIED IDEOGRAPH-6708, VARIATION SELECTOR-16
+✴️ | `:eight_pointed_black_star:` | EIGHT POINTED BLACK STAR, VARIATION SELECTOR-16
+🆚 | `:vs:` | SQUARED VS
+💮 | `:white_flower:` | WHITE FLOWER
+🉐 | `:ideograph_advantage:` | CIRCLED IDEOGRAPH ADVANTAGE
+㊙️ | `:secret:` | CIRCLED IDEOGRAPH SECRET, VARIATION SELECTOR-16
+㊗️ | `:congratulations:` | CIRCLED IDEOGRAPH CONGRATULATION, VARIATION SELECTOR-16
+🈴 | `:u5408:` | SQUARED CJK UNIFIED IDEOGRAPH-5408
+🈵 | `:u6e80:` | SQUARED CJK UNIFIED IDEOGRAPH-6E80
+🈹 | `:u5272:` | SQUARED CJK UNIFIED IDEOGRAPH-5272
+🈲 | `:u7981:` | SQUARED CJK UNIFIED IDEOGRAPH-7981
+🅰️ | `:a:` | NEGATIVE SQUARED LATIN CAPITAL LETTER A, VARIATION SELECTOR-16
+🅱️ | `:b:` | NEGATIVE SQUARED LATIN CAPITAL LETTER B, VARIATION SELECTOR-16
+🆎 | `:ab:` | NEGATIVE SQUARED AB
+🆑 | `:cl:` | SQUARED CL
+🅾️ | `:o2:` | NEGATIVE SQUARED LATIN CAPITAL LETTER O, VARIATION SELECTOR-16
+🆘 | `:sos:` | SQUARED SOS
+❌ | `:x:` | CROSS MARK
+⭕️ | `:o:` | HEAVY LARGE CIRCLE, VARIATION SELECTOR-16
+🛑 | `:stop_sign:` | OCTAGONAL SIGN
+⛔️ | `:no_entry:` | NO ENTRY, VARIATION SELECTOR-16
+📛 | `:name_badge:` | NAME BADGE
+🚫 | `:no_entry_sign:` | NO ENTRY SIGN
+💯 | `:100:` | HUNDRED POINTS SYMBOL
+💢 | `:anger:` | ANGER SYMBOL
+♨️ | `:hotsprings:` | HOT SPRINGS, VARIATION SELECTOR-16
+🚷 | `:no_pedestrians:` | NO PEDESTRIANS
+🚯 | `:do_not_litter:` | DO NOT LITTER SYMBOL
+🚳 | `:no_bicycles:` | NO BICYCLES
+🚱 | `:non-potable_water:` | NON-POTABLE WATER SYMBOL
+🔞 | `:underage:` | NO ONE UNDER EIGHTEEN SYMBOL
+📵 | `:no_mobile_phones:` | NO MOBILE PHONES
+🚭 | `:no_smoking:` | NO SMOKING SYMBOL
+❗️ | `:exclamation:` | HEAVY EXCLAMATION MARK SYMBOL, VARIATION SELECTOR-16
+❕ | `:grey_exclamation:` | WHITE EXCLAMATION MARK ORNAMENT
+❓ | `:question:` | BLACK QUESTION MARK ORNAMENT
+❔ | `:grey_question:` | WHITE QUESTION MARK ORNAMENT
+‼️ | `:bangbang:` | DOUBLE EXCLAMATION MARK, VARIATION SELECTOR-16
+⁉️ | `:interrobang:` | EXCLAMATION QUESTION MARK, VARIATION SELECTOR-16
+🔅 | `:low_brightness:` | LOW BRIGHTNESS SYMBOL
+🔆 | `:high_brightness:` | HIGH BRIGHTNESS SYMBOL
+〽️ | `:part_alternation_mark:` | PART ALTERNATION MARK, VARIATION SELECTOR-16
+⚠️ | `:warning:` | WARNING SIGN, VARIATION SELECTOR-16
+🚸 | `:children_crossing:` | CHILDREN CROSSING
+🔱 | `:trident:` | TRIDENT EMBLEM
+⚜️ | `:fleur_de_lis:` | FLEUR-DE-LIS, VARIATION SELECTOR-16
+🔰 | `:beginner:` | JAPANESE SYMBOL FOR BEGINNER
+♻️ | `:recycle:` | BLACK UNIVERSAL RECYCLING SYMBOL, VARIATION SELECTOR-16
+✅ | `:white_check_mark:` | WHITE HEAVY CHECK MARK
+🈯️ | `:u6307:` | SQUARED CJK UNIFIED IDEOGRAPH-6307, VARIATION SELECTOR-16
+💹 | `:chart:` | CHART WITH UPWARDS TREND AND YEN SIGN
+❇️ | `:sparkle:` | SPARKLE, VARIATION SELECTOR-16
+✳️ | `:eight_spoked_asterisk:` | EIGHT SPOKED ASTERISK, VARIATION SELECTOR-16
+❎ | `:negative_squared_cross_mark:` | NEGATIVE SQUARED CROSS MARK
+🌐 | `:globe_with_meridians:` | GLOBE WITH MERIDIANS
+💠 | `:diamond_shape_with_a_dot_inside:` | DIAMOND SHAPE WITH A DOT INSIDE
+Ⓜ️ | `:m:` | CIRCLED LATIN CAPITAL LETTER M, VARIATION SELECTOR-16
+🌀 | `:cyclone:` | CYCLONE
+💤 | `:zzz:` | SLEEPING SYMBOL
+🏧 | `:atm:` | AUTOMATED TELLER MACHINE
+🚾 | `:wc:` | WATER CLOSET
+♿️ | `:wheelchair:` | WHEELCHAIR SYMBOL, VARIATION SELECTOR-16
+🅿️ | `:parking:` | NEGATIVE SQUARED LATIN CAPITAL LETTER P, VARIATION SELECTOR-16
+🈳 | `:u7a7a:` | SQUARED CJK UNIFIED IDEOGRAPH-7A7A
+🈂️ | `:sa:` | SQUARED KATAKANA SA, VARIATION SELECTOR-16
+🛂 | `:passport_control:` | PASSPORT CONTROL
+🛃 | `:customs:` | CUSTOMS
+🛄 | `:baggage_claim:` | BAGGAGE CLAIM
+🛅 | `:left_luggage:` | LEFT LUGGAGE
+🚹 | `:mens:` | MENS SYMBOL
+🚺 | `:womens:` | WOMENS SYMBOL
+🚼 | `:baby_symbol:` | BABY SYMBOL
+🚻 | `:restroom:` | RESTROOM
+🚮 | `:put_litter_in_its_place:` | PUT LITTER IN ITS PLACE SYMBOL
+🎦 | `:cinema:` | CINEMA
+📶 | `:signal_strength:` | ANTENNA WITH BARS
+🈁 | `:koko:` | SQUARED KATAKANA KOKO
+🔣 | `:symbols:` | INPUT SYMBOL FOR SYMBOLS
+ℹ️ | `:information_source:` | INFORMATION SOURCE, VARIATION SELECTOR-16
+🔤 | `:abc:` | INPUT SYMBOL FOR LATIN LETTERS
+🔡 | `:abcd:` | INPUT SYMBOL FOR LATIN SMALL LETTERS
+🔠 | `:capital_abcd:` | INPUT SYMBOL FOR LATIN CAPITAL LETTERS
+🆖 | `:ng:` | SQUARED NG
+🆗 | `:ok:` | SQUARED OK
+🆙 | `:up:` | SQUARED UP WITH EXCLAMATION MARK
+🆒 | `:cool:` | SQUARED COOL
+🆕 | `:new:` | SQUARED NEW
+🆓 | `:free:` | SQUARED FREE
+0️⃣ | `:zero:` | 0, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+1️⃣ | `:one:` | 1, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+2️⃣ | `:two:` | 2, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+3️⃣ | `:three:` | 3, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+4️⃣ | `:four:` | 4, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+5️⃣ | `:five:` | 5, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+6️⃣ | `:six:` | 6, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+7️⃣ | `:seven:` | 7, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+8️⃣ | `:eight:` | 8, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+9️⃣ | `:nine:` | 9, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+🔟 | `:keycap_ten:` | KEYCAP TEN
+🔢 | `:1234:` | INPUT SYMBOL FOR NUMBERS
+#️⃣ | `:hash:` | #, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+*️⃣ | `:asterisk:` | *, VARIATION SELECTOR-16, COMBINING ENCLOSING KEYCAP
+▶️ | `:arrow_forward:` | BLACK RIGHT-POINTING TRIANGLE, VARIATION SELECTOR-16
+⏸ | `:pause_button:` | DOUBLE VERTICAL BAR
+⏯ | `:play_or_pause_button:` | BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR
+⏹ | `:stop_button:` | BLACK SQUARE FOR STOP
+⏺ | `:record_button:` | BLACK CIRCLE FOR RECORD
+⏭ | `:next_track_button:` | BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR
+⏮ | `:previous_track_button:` | BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR
+⏩ | `:fast_forward:` | BLACK RIGHT-POINTING DOUBLE TRIANGLE
+⏪ | `:rewind:` | BLACK LEFT-POINTING DOUBLE TRIANGLE
+⏫ | `:arrow_double_up:` | BLACK UP-POINTING DOUBLE TRIANGLE
+⏬ | `:arrow_double_down:` | BLACK DOWN-POINTING DOUBLE TRIANGLE
+◀️ | `:arrow_backward:` | BLACK LEFT-POINTING TRIANGLE, VARIATION SELECTOR-16
+🔼 | `:arrow_up_small:` | UP-POINTING SMALL RED TRIANGLE
+🔽 | `:arrow_down_small:` | DOWN-POINTING SMALL RED TRIANGLE
+➡️ | `:arrow_right:` | BLACK RIGHTWARDS ARROW, VARIATION SELECTOR-16
+⬅️ | `:arrow_left:` | LEFTWARDS BLACK ARROW, VARIATION SELECTOR-16
+⬆️ | `:arrow_up:` | UPWARDS BLACK ARROW, VARIATION SELECTOR-16
+⬇️ | `:arrow_down:` | DOWNWARDS BLACK ARROW, VARIATION SELECTOR-16
+↗️ | `:arrow_upper_right:` | NORTH EAST ARROW, VARIATION SELECTOR-16
+↘️ | `:arrow_lower_right:` | SOUTH EAST ARROW, VARIATION SELECTOR-16
+↙️ | `:arrow_lower_left:` | SOUTH WEST ARROW, VARIATION SELECTOR-16
+↖️ | `:arrow_upper_left:` | NORTH WEST ARROW, VARIATION SELECTOR-16
+↕️ | `:arrow_up_down:` | UP DOWN ARROW, VARIATION SELECTOR-16
+↔️ | `:left_right_arrow:` | LEFT RIGHT ARROW, VARIATION SELECTOR-16
+↪️ | `:arrow_right_hook:` | RIGHTWARDS ARROW WITH HOOK, VARIATION SELECTOR-16
+↩️ | `:leftwards_arrow_with_hook:` | LEFTWARDS ARROW WITH HOOK, VARIATION SELECTOR-16
+⤴️ | `:arrow_heading_up:` | ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS, VARIATION SELECTOR-16
+⤵️ | `:arrow_heading_down:` | ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS, VARIATION SELECTOR-16
+🔀 | `:twisted_rightwards_arrows:` | TWISTED RIGHTWARDS ARROWS
+🔁 | `:repeat:` | CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS
+🔂 | `:repeat_one:` | CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY
+🔄 | `:arrows_counterclockwise:` | ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS
+🔃 | `:arrows_clockwise:` | CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS
+🎵 | `:musical_note:` | MUSICAL NOTE
+🎶 | `:notes:` | MULTIPLE MUSICAL NOTES
+➕ | `:heavy_plus_sign:` | HEAVY PLUS SIGN
+➖ | `:heavy_minus_sign:` | HEAVY MINUS SIGN
+➗ | `:heavy_division_sign:` | HEAVY DIVISION SIGN
+✖️ | `:heavy_multiplication_x:` | HEAVY MULTIPLICATION X, VARIATION SELECTOR-16
+💲 | `:heavy_dollar_sign:` | HEAVY DOLLAR SIGN
+💱 | `:currency_exchange:` | CURRENCY EXCHANGE
+™️ | `:tm:` | TRADE MARK SIGN, VARIATION SELECTOR-16
+©️ | `:copyright:` | COPYRIGHT SIGN, VARIATION SELECTOR-16
+®️ | `:registered:` | REGISTERED SIGN, VARIATION SELECTOR-16
+〰️ | `:wavy_dash:` | WAVY DASH, VARIATION SELECTOR-16
+➰ | `:curly_loop:` | CURLY LOOP
+➿ | `:loop:` | DOUBLE CURLY LOOP
+🔚 | `:end:` | END WITH LEFTWARDS ARROW ABOVE
+🔙 | `:back:` | BACK WITH LEFTWARDS ARROW ABOVE
+🔛 | `:on:` | ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE
+🔝 | `:top:` | TOP WITH UPWARDS ARROW ABOVE
+🔜 | `:soon:` | SOON WITH RIGHTWARDS ARROW ABOVE
+✔️ | `:heavy_check_mark:` | HEAVY CHECK MARK, VARIATION SELECTOR-16
+☑️ | `:ballot_box_with_check:` | BALLOT BOX WITH CHECK, VARIATION SELECTOR-16
+🔘 | `:radio_button:` | RADIO BUTTON
+⚪️ | `:white_circle:` | MEDIUM WHITE CIRCLE, VARIATION SELECTOR-16
+⚫️ | `:black_circle:` | MEDIUM BLACK CIRCLE, VARIATION SELECTOR-16
+🔴 | `:red_circle:` | LARGE RED CIRCLE
+🔵 | `:large_blue_circle:` | LARGE BLUE CIRCLE
+🔺 | `:small_red_triangle:` | UP-POINTING RED TRIANGLE
+🔻 | `:small_red_triangle_down:` | DOWN-POINTING RED TRIANGLE
+🔸 | `:small_orange_diamond:` | SMALL ORANGE DIAMOND
+🔹 | `:small_blue_diamond:` | SMALL BLUE DIAMOND
+🔶 | `:large_orange_diamond:` | LARGE ORANGE DIAMOND
+🔷 | `:large_blue_diamond:` | LARGE BLUE DIAMOND
+🔳 | `:white_square_button:` | WHITE SQUARE BUTTON
+🔲 | `:black_square_button:` | BLACK SQUARE BUTTON
+▪️ | `:black_small_square:` | BLACK SMALL SQUARE, VARIATION SELECTOR-16
+▫️ | `:white_small_square:` | WHITE SMALL SQUARE, VARIATION SELECTOR-16
+◾️ | `:black_medium_small_square:` | BLACK MEDIUM SMALL SQUARE, VARIATION SELECTOR-16
+◽️ | `:white_medium_small_square:` | WHITE MEDIUM SMALL SQUARE, VARIATION SELECTOR-16
+◼️ | `:black_medium_square:` | BLACK MEDIUM SQUARE, VARIATION SELECTOR-16
+◻️ | `:white_medium_square:` | WHITE MEDIUM SQUARE, VARIATION SELECTOR-16
+⬛️ | `:black_large_square:` | BLACK LARGE SQUARE, VARIATION SELECTOR-16
+⬜️ | `:white_large_square:` | WHITE LARGE SQUARE, VARIATION SELECTOR-16
+🔈 | `:speaker:` | SPEAKER
+🔇 | `:mute:` | SPEAKER WITH CANCELLATION STROKE
+🔉 | `:sound:` | SPEAKER WITH ONE SOUND WAVE
+🔊 | `:loud_sound:` | SPEAKER WITH THREE SOUND WAVES
+🔔 | `:bell:` | BELL
+🔕 | `:no_bell:` | BELL WITH CANCELLATION STROKE
+📣 | `:mega:` | CHEERING MEGAPHONE
+📢 | `:loudspeaker:` | PUBLIC ADDRESS LOUDSPEAKER
+👁‍🗨 | `:eye_speech_bubble:` | EYE, ZERO WIDTH JOINER, LEFT SPEECH BUBBLE
+💬 | `:speech_balloon:` | SPEECH BALLOON
+💭 | `:thought_balloon:` | THOUGHT BALLOON
+🗯 | `:right_anger_bubble:` | RIGHT ANGER BUBBLE
+♠️ | `:spades:` | BLACK SPADE SUIT, VARIATION SELECTOR-16
+♣️ | `:clubs:` | BLACK CLUB SUIT, VARIATION SELECTOR-16
+♥️ | `:hearts:` | BLACK HEART SUIT, VARIATION SELECTOR-16
+♦️ | `:diamonds:` | BLACK DIAMOND SUIT, VARIATION SELECTOR-16
+🃏 | `:black_joker:` | PLAYING CARD BLACK JOKER
+🎴 | `:flower_playing_cards:` | FLOWER PLAYING CARDS
+🀄️ | `:mahjong:` | MAHJONG TILE RED DRAGON, VARIATION SELECTOR-16
+🕐 | `:clock1:` | CLOCK FACE ONE OCLOCK
+🕑 | `:clock2:` | CLOCK FACE TWO OCLOCK
+🕒 | `:clock3:` | CLOCK FACE THREE OCLOCK
+🕓 | `:clock4:` | CLOCK FACE FOUR OCLOCK
+🕔 | `:clock5:` | CLOCK FACE FIVE OCLOCK
+🕕 | `:clock6:` | CLOCK FACE SIX OCLOCK
+🕖 | `:clock7:` | CLOCK FACE SEVEN OCLOCK
+🕗 | `:clock8:` | CLOCK FACE EIGHT OCLOCK
+🕘 | `:clock9:` | CLOCK FACE NINE OCLOCK
+🕙 | `:clock10:` | CLOCK FACE TEN OCLOCK
+🕚 | `:clock11:` | CLOCK FACE ELEVEN OCLOCK
+🕛 | `:clock12:` | CLOCK FACE TWELVE OCLOCK
+🕜 | `:clock130:` | CLOCK FACE ONE-THIRTY
+🕝 | `:clock230:` | CLOCK FACE TWO-THIRTY
+🕞 | `:clock330:` | CLOCK FACE THREE-THIRTY
+🕟 | `:clock430:` | CLOCK FACE FOUR-THIRTY
+🕠 | `:clock530:` | CLOCK FACE FIVE-THIRTY
+🕡 | `:clock630:` | CLOCK FACE SIX-THIRTY
+🕢 | `:clock730:` | CLOCK FACE SEVEN-THIRTY
+🕣 | `:clock830:` | CLOCK FACE EIGHT-THIRTY
+🕤 | `:clock930:` | CLOCK FACE NINE-THIRTY
+🕥 | `:clock1030:` | CLOCK FACE TEN-THIRTY
+🕦 | `:clock1130:` | CLOCK FACE ELEVEN-THIRTY
+🕧 | `:clock1230:` | CLOCK FACE TWELVE-THIRTY

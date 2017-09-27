@@ -1,0 +1,15 @@
+{
+  "name": "Emojis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thundernet8/Emojis.git",
+  "author": "吴学谦 <wuxueqian@ezbuy.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.7.0"
+  },
+  "scripts": {
+    "build": "node index.js"
+  }
+}
