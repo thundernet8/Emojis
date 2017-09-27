@@ -1,3 +1,5 @@
+emoji | alias | name
+---|---|---
 🏳️ | `:white_flag:` | WAVING WHITE FLAG, VARIATION SELECTOR-16
 🏴 | `:black_flag:` | WAVING BLACK FLAG
 🏁 | `:checkered_flag:` | CHEQUERED FLAG

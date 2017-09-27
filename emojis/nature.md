@@ -1,3 +1,5 @@
+emoji | alias | name
+---|---|---
 🐶 | `:dog:` | DOG FACE
 🐱 | `:cat:` | CAT FACE
 🐭 | `:mouse:` | MOUSE FACE

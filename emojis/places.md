@@ -1,3 +1,5 @@
+emoji | alias | name
+---|---|---
 🚗 | `:car:` | AUTOMOBILE
 🚕 | `:taxi:` | TAXI
 🚙 | `:blue_car:` | RECREATIONAL VEHICLE

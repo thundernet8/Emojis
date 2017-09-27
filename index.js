@@ -18,7 +18,10 @@ function readMd(md) {
   const code = [];
   code.push(`const ${md} =[`);
 
-  records.forEach(record => {
+  records.forEach((record, index) => {
+    if (index < 2) {
+      return;
+    }
     const fields = record.split("|");
     const emoji = fields[0].trim();
     const alias = fields[1].replace("`", "").trim();

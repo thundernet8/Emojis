@@ -1,3 +1,5 @@
+emoji | alias | name
+---|---|---
 😀 | `:grinning:` | GRINNING FACE
 😃 | `:smiley:` | SMILING FACE WITH OPEN MOUTH
 😄 | `:smile:` | SMILING FACE WITH OPEN MOUTH AND SMILING EYES

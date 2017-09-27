@@ -1,3 +1,5 @@
+emoji | alias | name
+---|---|---
 ⚽️ | `:soccer:` | SOCCER BALL, VARIATION SELECTOR-16
 🏀 | `:basketball:` | BASKETBALL AND HOOP
 🏈 | `:football:` | AMERICAN FOOTBALL

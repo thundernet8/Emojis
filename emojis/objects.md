@@ -1,3 +1,5 @@
+emoji | alias | name
+---|---|---
 ⌚️ | `:watch:` | WATCH, VARIATION SELECTOR-16
 📱 | `:iphone:` | MOBILE PHONE
 📲 | `:calling:` | MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT

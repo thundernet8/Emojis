@@ -1,3 +1,5 @@
+emoji | alias | name
+---|---|---
 ❤️ | `:heart:` | HEAVY BLACK HEART, VARIATION SELECTOR-16
 💛 | `:yellow_heart:` | YELLOW HEART
 💚 | `:green_heart:` | GREEN HEART

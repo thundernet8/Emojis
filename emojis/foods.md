@@ -1,3 +1,5 @@
+emoji | alias | name
+---|---|---
 🍏 | `:green_apple:` | GREEN APPLE
 🍎 | `:apple:` | RED APPLE
 🍐 | `:pear:` | PEAR
